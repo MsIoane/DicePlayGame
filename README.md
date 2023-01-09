@@ -1,2 +1,1 @@
 # DicePlayGame
-DiceGame
